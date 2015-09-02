@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\SSOLogin\SSOLogin\bin\SSOLogin.dll.config
+C:\Users\Administrator\Desktop\SSOLogin\SSOLogin\bin\SSOLogin.dll
+C:\Users\Administrator\Desktop\SSOLogin\SSOLogin\bin\SSOLogin.pdb
+C:\Users\Administrator\Desktop\SSOLogin\SSOLogin\obj\Debug\SSOLogin.dll
+C:\Users\Administrator\Desktop\SSOLogin\SSOLogin\obj\Debug\SSOLogin.pdb
